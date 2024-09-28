@@ -6,7 +6,7 @@ import Button from "react-bootstrap/Button";
 import Form from "react-bootstrap/Form";
 import Card from "react-bootstrap/Card";
 import InvoiceItem from "./InvoiceItem";
-import InvoiceModal from "./InvoiceModal";
+import InvoiceModal from "./InvoiceModal";  
 import InputGroup from "react-bootstrap/InputGroup";
 
 const InvoiceForm = () => {
