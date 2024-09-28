@@ -46,27 +46,6 @@ The application should now be running on `http://localhost:3000`.
 5. Setup tax rate and discount rate accordingly
 6. You can download or print resume
 
-## Contributing
-
-We welcome contributions to FastBills! If you'd like to contribute, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch for your feature (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-Please make sure to update tests as appropriate and adhere to the project's coding standards.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/fastbills](https://github.com/yourusername/fastbills)
 
 ## Acknowledgments
 
